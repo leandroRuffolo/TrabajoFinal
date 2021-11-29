@@ -1,0 +1,143 @@
+.imagen-logo{
+  position: relative;
+  width: 10vw;
+  height: 20vh;
+  left: 44%;
+  top: 30px;
+}
+.inicio{
+  position: relative;
+  left: 35%;
+  top: 160px;
+  color: black;
+  text-decoration: none;
+  font-family: 'M PLUS Code Latin', sans-serif;
+}
+.h3{
+position: relative;
+left: 48.5%;
+top: 45px;
+}
+.contacto{
+  position:  relative;
+  left: 50%;
+  top: 12px;
+  font-family: 'M PLUS Code Latin', sans-serif;
+  text-decoration: none;
+  color: black;
+}
+.sesion{
+  position: relative;
+  left: 40%;
+  width: 50vw;
+  height: 50vh;
+  top: 100px;
+}
+.email{
+  position: relative;
+  bottom: 30px;
+  left: 5%;
+}
+.email-1{
+  width: 20vw;
+}
+.password{
+  position: relative;
+   left: 4.5%;
+   bottom: 30px;
+
+}
+.password-1{
+position: relative;
+right: 4.5%;
+width: 20vw;
+}
+.texto{
+position:  relative;
+left: 42%;
+bottom: 260px;
+text-decoration:  none;
+color: black;
+}
+.iniciar-sesion{
+position: relative;
+right: 45%;
+top: 100px;
+width: 20vw;
+height: 4vh;
+background-color: #C3A343;
+color: white;
+border-style: hidden;
+}
+.CrearCuenta{
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  left: 45%;
+  bottom: 180px;
+  width: 20vw;
+}
+.CrearCuenta-1{
+  position: relative;
+  bottom: 10px;
+  margin: 3%;
+  text-decoration: none;
+  color: black;
+}
+footer b{
+  position: relative;
+ left: 45%;
+ font-size: 120%;
+  }
+.imagenes-pago{
+display: flex;
+margin-right: 10px;
+}
+.Contenedor{
+  width: 20%;
+  margin: auto;
+  position: relative;
+  right: 10%;
+}
+img{
+  width: 100%;
+}
+.imagenes-col{
+  margin: 5px;
+}
+footer .Contenedor{
+  display: grid;
+  grid-template-columns: repeat(5,30%);
+}
+.medioPago{
+  position: relative;
+  left: 41%;
+  bottom: 2%;
+}
+footer{
+  background-color: #EEEEEE;
+}
+.imagen-ig{
+  width: 1.5vw;
+}
+.imagen-fb{
+  width: 1.5vw;
+}
+.Redes-Sociales{
+  display: grid;
+  grid-template-columns: repeat(2,10%);
+  width: 20%;
+  position: relative;
+  left: 70%;
+  bottom: 100px;
+}
+
+.Redes{
+  position: relative;
+  left: 68%;
+  bottom: 120px;
+}
+.colocar{
+  position: relative;
+  bottom: 50px;
+}

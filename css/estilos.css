@@ -1,0 +1,75 @@
+.Buscador{
+position: relative;
+left: 14%;
+top: 100px;
+width: 25vw;
+}
+.search{
+  border-top-style: hidden;
+  border-left-style: hidden;
+  border-right-style: hidden;
+  border-bottom-color: gray;
+  width: 7vw;
+}
+.Lupa{
+  width: 1.9vw;
+  height: 2.5vh;
+}
+.boton-buscador{
+  border-style: hidden;
+  background: white;
+}
+
+input.image_buscar {
+	width: 20px;
+	border: 0px;
+	position: relative;
+	top:1px;
+}
+
+.imagen-logo{
+position: relative;
+width: 170px;
+height: 170px;
+left: 40%;
+bottom: 30px;
+}
+
+.Registro-Inicio{
+position: relative;
+left: 60%;
+bottom: 125px;
+}
+.Registro{
+color: black;
+text-decoration: none;
+font-size: 89%;
+font-family: 'M PLUS Code Latin', sans-serif;
+}
+.barra{
+position: relative;
+bottom: 24px;
+left: 4.7%;
+}
+.Iniciar{
+  color: black;
+  text-decoration: none;
+  font-size: 89%;
+  font-family: 'M PLUS Code Latin', sans-serif;
+  position: relative;
+  left: 5.3%;
+  bottom: 68px;
+}
+header{
+  position: relative;
+  left: 0%;
+  background-color: #F2F3F4;
+  height: 25vh;
+}
+.carrito{
+position: relative;
+width: 2vw;
+left: 6%;
+bottom: 70px;
+
+}

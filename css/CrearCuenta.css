@@ -1,0 +1,93 @@
+.Registrarse{
+position: relative;
+right: 3%;
+width: 20vw;
+height: 40vh;
+top: 300px;
+
+}
+
+.label-input{
+padding: 5%;
+}
+
+.Nombre{
+  width: 30vw;
+}
+.Email{
+  width: 30vw;
+}
+.password{
+  width: 30vw;
+}
+.phone{
+width: 30vw;
+}
+.password-2{
+  width: 30vw;
+}
+.nombre-2{
+position: relative;
+right: 40%;
+}
+.email-2{
+  position: relative;
+  right: 43%;
+}
+.password-3{
+  position: relative;
+  right: 37%;
+}
+.phone-2{
+  position: relative;
+  right: 30%;
+}
+.password-4{
+  position: relative;
+  right: 26%;
+}
+
+.comentario{
+position: relative;
+left:30%;
+}
+.imagen{
+  position: relative;
+  width: 170px;
+  height: 170px;
+  left: 46%;
+  bottom: 380px;
+
+  }
+  .logo{
+width: 10vw;
+  }
+  .enlace-inicio{
+position: relative;
+    left: 40%;
+    top: 30px;
+    color: gray;
+    text-decoration: none;
+    font-size: 120%;
+    font-family: 'M PLUS Code Latin', sans-serif;
+  }
+
+  .boton-1{
+    position: relative;
+    width: 30vw;
+  }
+
+  .pregunta-1{
+    position: relative;
+    top: 260px;
+    left: 47%;
+  }
+  .enlaces{
+    position: relative;
+    left: 56%;
+    top: 220px;
+    color: #000000;
+    text-decoration: none;
+    font-family: 'Teko', sans-serif;
+    font-size: 120%;
+}
