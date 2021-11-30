@@ -73,3 +73,65 @@ left: 6%;
 bottom: 70px;
 
 }
+#carouselExampleControls{
+width:  20%;
+height: 80vh;
+position: relative;
+}
+.Zapato1{
+  height: 70vh;
+  width: 100%;
+}
+.Zapato2{
+  height: 70vh;
+  width: 100%;
+}
+
+.Zapato3{
+  height: 70vh;
+  width: 100%;
+}
+.Zapato4{
+  height: 70vh;
+  width: 100%;
+}
+.Zapato5{
+  height: 70vh;
+  width: 100%;
+}
+.Zapato6{
+  height: 70vh;
+  width: 100%;
+}
+#carouselExampleSlidesOnly{
+  position: relative;
+  left: 80%;
+  bottom: 834px;
+  width:  20%;
+  height: 80vh;
+}
+.frase h2{
+  font-size: 2em;
+}
+.frase{
+  width: 50vw;
+  position: relative;
+  left: 24%;
+  bottom: 450px;
+}
+nav{
+  background-color: #A4B6C6;
+height: 80vh;
+}
+.container{
+  display: grid;
+  grid-template-columns: repeat(4,24%);
+position: relative;
+left: 3%;
+top: 150px;
+}
+section{
+  background-color: #A0C8EE;
+  height: 180vh;
+
+}
