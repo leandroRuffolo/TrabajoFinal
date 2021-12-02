@@ -41,11 +41,11 @@ margin-top: 1%;
 }
 .facebook-1{
   text-decoration: none;
-  color: black;
+  color: white;
 }
 .ig-1{
   text-decoration: none;
-  color: black;
+  color: white;
 }
 .logo{
   position: relative;
@@ -57,5 +57,16 @@ margin-top: 1%;
 .imagen-logo{
   position: relative;
   width: 10vw;
-
+  top: 70px;
+}
+.imagen-de-fondo-1{
+  position: relative;
+  width: 25vw;
+  bottom: 400px;
+  left: 72%;
+  height: 40vh;
+}
+body{
+  background-image: url("http://www.solofondos.com/wp-content/uploads/2015/11/21omxpw.jpg");
+  color: white;
 }

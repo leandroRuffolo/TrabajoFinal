@@ -66,8 +66,9 @@ width: 10vw;
 position: relative;
     left: 40%;
     top: 30px;
-    color: gray;
-    text-decoration: none;
+    color: #566573;
+    text-decoration: underline;
+    border-color: #273746;
     font-size: 120%;
     font-family: 'M PLUS Code Latin', sans-serif;
   }
@@ -90,4 +91,8 @@ position: relative;
     text-decoration: none;
     font-family: 'Teko', sans-serif;
     font-size: 120%;
+}
+body{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7d4Mq7_05UnZzdjdoj7d-MoVFNTrgM_scyw&usqp=CAU");
+
 }

@@ -31,13 +31,13 @@ input.image_buscar {
 position: relative;
 width: 170px;
 height: 170px;
-left: 40%;
+left: 45%;
 bottom: 30px;
 }
 
 .Registro-Inicio{
 position: relative;
-left: 60%;
+left: 70%;
 bottom: 125px;
 }
 .Registro{
@@ -62,7 +62,7 @@ left: 4.7%;
 }
 header{
   position: relative;
-  left: 0%;
+  right: 0%;
   background-color: #F2F3F4;
   height: 25vh;
 }
@@ -133,5 +133,16 @@ top: 150px;
 section{
   background-color: #A0C8EE;
   height: 180vh;
-
+}
+.producto{
+  position: relative;
+  font-size: 160%;
+  left: 45%;
+  top: 70px;
+  text-decoration: underline;
+}
+.wpp{
+  position: fixed;
+  width: 3vw;
+  bottom: 30px;
 }
